@@ -22,7 +22,8 @@ optional arguments:
   -v, --verbose         Enable debug logging for blinky commands.
 ```
 
-## [blinky_demo.py video](Blinky_demo_video.mp4)
+` `
+## ![blinky_demo.py video](Blinky_demo_video.mp4)
 
 
 ` `  
