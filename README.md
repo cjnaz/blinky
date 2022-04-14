@@ -23,7 +23,8 @@ optional arguments:
 ```
 
 ` `
-## ![blinky_demo.py video](Blinky_demo_video.mp4)
+## blinky_demo.py video
+https://github.com/cjnaz/blinky/Blinky_demo_video.mp4
 
 
 ` `  
