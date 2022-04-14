@@ -1,7 +1,7 @@
 # blinky - A threaded multiple LED driver for Raspberry Pi
 
 blinky provides background process LED flashing operations for multiple LEDs.  blinky is supported on popular driver
-librries RPi.GPIO, pigpio, and gpiozero.  Usage is simple, with full demo code provided.
+libraries RPi.GPIO, pigpio, and gpiozero.  Usage is simple, with full demo code provided.
 
 ` `  
 ## Usage (blinky_demo.py)
