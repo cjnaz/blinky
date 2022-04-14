@@ -24,8 +24,8 @@ optional arguments:
 
 ` `
 ## blinky_demo.py video
-https://github.com/cjnaz/blinky/Blinky_demo_video.mp4
 
+https://github.com/cjnaz/blinky/blob/main/Blinky_demo_video.mp4
 
 ` `  
 ## Example output (blinky_demo.py, with --verbose)
